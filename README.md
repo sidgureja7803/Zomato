@@ -26,3 +26,11 @@ Follow the steps below to set up the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/sidgureja7803/zomato-clone.git
+2. Navigate into the project directory:
+
+ ```bash
+cd zomato-clone
+npm install
+npm start
+
+The app will be available at http://localhost:3000.
